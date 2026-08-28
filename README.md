@@ -1,2 +1,2 @@
 # SimpleCalculator---JS
-A simple calculator written in HTML, CSS and Javascript.
+A simple calculator written in HTML, CSS and JavaScript.
